@@ -34,7 +34,7 @@ do {
     break;
   }
 
-  //checando telefone 
+  //checando CPF por duplicadas 
 
 
   $CPF = $_POST['CPF']; //aqui você resgata o login digitado
